@@ -11,7 +11,7 @@ weight_decay=1e-6
 optimizer="adam"
 
 backbone="facebook/sam-vit-base"
-checkpoint="checkpoint"
+checkpoint="ksyint/sam0222"
 freeze=True #vison_encoder, prompt_encoder 
 
 multi_gpu=False
